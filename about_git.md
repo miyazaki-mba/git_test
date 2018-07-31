@@ -1,16 +1,16 @@
 # gitでの開発環境
 
 ## gitについて参考URL
-https://www.slideshare.net/matsukaz/git-28304397  
-https://backlog.com/ja/git-tutorial/intro/intro1_1.html  
-https://www.symmetric.co.jp/blog/archives/577  
-https://eng-entrance.com/category/programming/git  
+[参照url](https://www.slideshare.net/matsukaz/git-28304397)  
+[参照url](https://backlog.com/ja/git-tutorial/intro/intro1_1.html)  
+[参照url](https://www.symmetric.co.jp/blog/archives/577)  
+[参照url](https://eng-entrance.com/category/programming/git)  
 
 ## メリット
 - html、css、jsファイル等のバージョン管理
 - 画像のバージョン比較も可能 [参照url](https://www.cherrypieweb.com/weblog/technical/20130331014928.php)  
 - dream weaver CC もgitに対応[参照url](https://blogs.adobe.com/creativestation/web-dreamweaver-cc-git-support)
-- psdなどもgitで管理する？[参照url](https://www.cloudot.co.jp/blog/2906/ target="_blank")  
+- psdなどもgitで管理する？[参照url](https://www.cloudot.co.jp/blog/2906/)  
 
 ## デメリット
 - ひと手間増える
