@@ -8,9 +8,9 @@ https://eng-entrance.com/category/programming/git
 
 ## メリット
 - html、css、jsファイル等のバージョン管理
-- 画像のバージョン比較も可能 [参照url](https://www.cherrypieweb.com/weblog/technical/20130331014928.php){:target="_blank"}
-- dream weaver CC もgitに対応[参照url](https://blogs.adobe.com/creativestation/web-dreamweaver-cc-git-support){:target="_blank"}
-- psdなどもgitで管理する？[参照url](https://www.cloudot.co.jp/blog/2906/){:target="_blank"}
+- 画像のバージョン比較も可能 [参照url](https://www.cherrypieweb.com/weblog/technical/20130331014928.php)  
+- dream weaver CC もgitに対応[参照url](https://blogs.adobe.com/creativestation/web-dreamweaver-cc-git-support)
+- psdなどもgitで管理する？[参照url](https://www.cloudot.co.jp/blog/2906/ target="_blank")  
 
 ## デメリット
 - ひと手間増える
@@ -38,18 +38,18 @@ gulp でもgulp-connect-php というのがあるらしい。
 xampp の方が、windowsの起動と同時に起動するようにしちゃえば楽じゃない？
 
 # xamppを使用する場合
-[参照url](https://qiita.com/rTachibana/items/b46009ae207dcd622935){:target="_blank"}
+[参照url](https://qiita.com/rTachibana/items/b46009ae207dcd622935)
 - xamppで心配なのは、**サーバーの設定**とかの共有方法
 - windows シンボリックリンクで、xamppの設定ファイルを、workdataのwebサーバーの設定ファイルを読みに行くようにしたらどうか？
 ## xampp インストール方法
-[参照url](https://techacademy.jp/magazine/1722){:target="_blank"}
+[参照url](https://techacademy.jp/magazine/1722)
 ## xampp セキュリティ設定
-[参照url](https://techacademy.jp/magazine/2941){:target="_blank"}
+[参照url](https://techacademy.jp/magazine/2941)
 ※xamppのlocalhostにアクセスできなかったけど、proxyの設定を変更してもらったら、アクセスできるようになった。
 
 # gitクライアント
 ## Source Tree（一番メジャーかな）
-[参照url](https://eng-entrance.com/sourcetree-use){:target="_blank"}  
+[参照url](https://eng-entrance.com/sourcetree-use)  
 思ったより簡単。機能もよくみると、そんなに多くなさそう。シンプル。
 
 # テスト用に作成したリポジトリ
@@ -62,11 +62,11 @@ https://test-kaku.backlog.com/git/TEST
 - githubへ接続するには、公開鍵が必要になる。  
 1. gitをpcへインストール
 2. 秘密鍵、公開鍵を作成
-[参照url](https://qiita.com/reflet/items/5c6ba6e29fe8436c3185){:target="_blank"}
+[参照url](https://qiita.com/reflet/items/5c6ba6e29fe8436c3185)
 3. 公開鍵をgithubに設定
-[参照url](https://qiita.com/ajitama/items/364d89b21daf8d3481bc){:target="_blank"}
+[参照url](https://qiita.com/ajitama/items/364d89b21daf8d3481bc)
 4. 秘密鍵をsourcetreeに設定
-[参照url](https://qiita.com/reflet/items/4f7b5c4a312bc27df10e){:target="_blank"}
+[参照url](https://qiita.com/reflet/items/4f7b5c4a312bc27df10e)
 5. 毎日パソコンを起動する毎に1回、秘密鍵のパスワードを入力しないといけない。まぁたいした作業じゃないし、セキュリティ上はいいかも。
 
 # gitをworkdataのサーバーへインストール
