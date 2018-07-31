@@ -18,6 +18,7 @@
 - 最初は競合とかブランチは気にしないで、ファイル共有として使ってみるのが、いいのでは？
 
 <br>
+<br>
 
 # 開発環境の変更
 ## 現在の開発環境
@@ -39,6 +40,9 @@ gulp でもgulp-connect-php というのがあるらしい。
 - xammp と gulp どっちでも、やりたい方法でいいんじゃない？  
 xampp の方が、windowsの起動と同時に起動するようにしちゃえば楽じゃない？
 
+<br>
+<br>
+
 # xamppを使用する場合
 [参照url](https://qiita.com/rTachibana/items/b46009ae207dcd622935)
 - xamppで心配なのは、**サーバーの設定**とかの共有方法
@@ -49,16 +53,25 @@ xampp の方が、windowsの起動と同時に起動するようにしちゃえ�
 [参照url](https://techacademy.jp/magazine/2941)
 ※xamppのlocalhostにアクセスできなかったけど、proxyの設定を変更してもらったら、アクセスできるようになった。
 
+<br>
+<br>
+
 # gitクライアント
 ## Source Tree（一番メジャーかな）
 [参照url](https://eng-entrance.com/sourcetree-use)  
 思ったより簡単。機能もよくみると、そんなに多くなさそう。シンプル。
+
+<br>
+<br>
 
 # テスト用に作成したリポジトリ
 ## テスト用github
 https://github.com/miyazaki-mba/git_test
 ## テスト用backlog
 https://test-kaku.backlog.com/git/TEST
+
+<br>
+<br>
 
 # github （使用してみた）
 - githubへ接続するには、公開鍵が必要になる。  
@@ -70,6 +83,9 @@ https://test-kaku.backlog.com/git/TEST
 4. 秘密鍵をsourcetreeに設定
 [参照url](https://qiita.com/reflet/items/4f7b5c4a312bc27df10e)
 5. 毎日パソコンを起動する毎に1回、秘密鍵のパスワードを入力しないといけない。まぁたいした作業じゃないし、セキュリティ上はいいかも。
+
+<br>
+<br>
 
 # gitをworkdataのサーバーへインストール
 1. workdataに、git をインストールしてもらえるように、Mr.Nakamuraに依頼。  
