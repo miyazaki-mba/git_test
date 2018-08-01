@@ -1,7 +1,5 @@
 # gitでの開発環境
 
-<img src="img/img_environment.jpg" width="600">
-
 ## メリット
 - html、css、jsファイル等のバージョン管理  
 誰がいつ、どのような修正をしたか履歴を残せる。
@@ -25,6 +23,10 @@
 <br>
 
 # 開発環境の変更
+
+## （仮）変更イメージ
+<img src="img/img_environment.jpg" width="800">
+
 ## 現在の開発環境
 - workdataのファイルを各個人が直接修正
 - 同時に開かないように注意しながら作業
@@ -68,7 +70,7 @@ xampp の方が、windowsの起動と同時に起動するようにしちゃえ�
 - 本来はworkdataをリモートリポジトリにする。(予定)  
 - 現在は、まだworkdataを準備中なので、git hub をリモートリポジトリとしてgitを使ってみる。  
 ただ、無料だとpublic（一般公開）なので、**実際の仕事のデータ（クライアントのhtml等）はアップしない。**
-- git hubへ接続するには公開鍵が必要（[下記参照](#anc-github)）
+- git hubへ接続するには公開鍵が必要です（[下記参照](#anc-github)）
 - backlogでもリモートリポジトリ作れる。
 
 ## 4. gitの簡単な操作を体験してみる  
@@ -81,6 +83,8 @@ xampp の方が、windowsの起動と同時に起動するようにしちゃえ�
 3. ローカルリポジトリへコミット
 4. リモートリポジトリへプッシュ
 5. リモートリポジトリからプル
+
+[参照url](https://eng-entrance.com/sourcetree-use)
 
 <br>
 <br>
