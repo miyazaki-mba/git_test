@@ -1,6 +1,6 @@
 # gitでの開発環境
 
-![Development environment image]](img/img_environment.jpg =200x)
+<img src="img/img_environment.jpg" width="600">
 
 ## メリット
 - html、css、jsファイル等のバージョン管理  
