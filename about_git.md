@@ -86,6 +86,8 @@ xampp の方が、windowsの起動と同時に起動するようにしちゃえ�
 
 [参照url](https://eng-entrance.com/sourcetree-use)
 
+**マージ・ブランチは後回し。まずは単純な操作に慣れる。**
+
 <br>
 <br>
 
