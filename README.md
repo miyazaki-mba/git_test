@@ -1,12 +1,10 @@
-# gitの導入
+# gitの導入について
 
-## やった事
-1. pcにgitをインストール
-2. pcにxammpインストール
-3. pcにsource treeインストール
-4. ワークデータをgit化　（現在　仕掛中）
+詳しくは、[about_git.mdファイル](https://github.com/miyazaki-mba/git_test/blob/master/about_git.md) 
 
----
-- git hub にアップしてみた（別に見られてもいい情報。無料のパブリック領域にアップ）
+<br>
+<br>
 
-### 詳しくは、[about_git.mdファイル](https://github.com/miyazaki-mba/git_test/blob/master/about_git.md) 参照
+### 2018/08/01 中間報告
+- git の簡単な使用方法を報告。
+- workdataサーバーのgitは、まだ準備中
