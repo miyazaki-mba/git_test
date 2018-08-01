@@ -35,6 +35,7 @@
 ## 今後の開発環境  
 - workdataから各個人PCにコピー（git clone）したファイルを修正
 - 各個人pc内のwebサーバーで修正・確認することになる。
+- ディレクターは、変わらずworkdataで確認。
 - 誰がいつどんな作業をしたのか、全員がわかるようになる。
 
 ## 個人PCで作業するにあたっての問題点。
@@ -106,7 +107,6 @@ git hubへ接続するには、公開鍵が必要になる。
 ※毎日パソコンを起動するたびに1回、秘密鍵のパスワードを入力しないといけないけど、まぁたいした作業じゃないし、セキュリティ的にはいいかも。
 
 <br>
-<br>
 
 ---
 
@@ -119,7 +119,6 @@ https://test-kaku.backlog.com/git/TEST
 みなさん自分のアカウントを作成して、リモートリポジトリを作成してください。
 
 <br>
-<br>
 
 ### gitをworkdataで使えるように準備中
 1. workdataに、git をインストールしてもらえるように、Mr.Nakamuraに依頼。  
@@ -127,9 +126,9 @@ https://test-kaku.backlog.com/git/TEST
 workdataのサーバーにインストールしてもらうことになった。
 
 <br>
-<br>
 
 ### gitについて参考URL
+いろいろ書かれているけど、操作してみないと、全くわからない。
 - [参照url](https://www.slideshare.net/matsukaz/git-28304397)  
 - [参照url](https://backlog.com/ja/git-tutorial/intro/intro1_1.html) 
 
@@ -138,9 +137,8 @@ workdataのサーバーにインストールしてもらうことになった。
 
 
 <br>
-<br>
 
-## <div id="anc-xampp">xamppを使用する場合</div>
+## <div id="anc-xampp">個人PCでxamppを使用するにあたって</div>
 1. xampp インストール方法
 [参照url](https://techacademy.jp/magazine/1722)
 2. xampp セキュリティ設定
