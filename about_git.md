@@ -59,7 +59,10 @@ xampp の方が、windowsの起動と同時に起動するようにしちゃえ�
 ## 2. gitクライアント インストール
 - Source Tree（一番メジャーかな？？）  
 [参照url](https://eng-entrance.com/sourcetree-use)  
-思ったより簡単なソフト。機能もよくみると、そんなに多くなさそう。シンプル。単純に使うなら、左上の大きいボタンだけでOK。
+思ったより簡単なソフト。機能もよくみると、そんなに多くなさそう。シンプル。単純に使うなら、左上の大きいボタンだけでOK。  
+[インストール方法 参照url](https://eng-entrance.com/sourcetree)  
+※インストールの途中でAtlassianのアカウント登録をしないとインストールが進まない箇所がありますので登録してください。  
+<br>  
 - Tortoise Git（tortoise SVNと同じ）  
 [参照url](https://backlog.com/ja/git-tutorial/intro/intro2_1.html)  
 なんとなくNIC案件でbad feelだったので、やめとく。
