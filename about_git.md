@@ -57,7 +57,7 @@ xampp の方が、windowsの起動と同時に起動するようにしちゃえ�
 - [参照url](https://qiita.com/toshi-click/items/dcf3dd48fdc74c91b409)
 
 ## 2. gitクライアント インストール
-- Source Tree（一番メジャーかな？？）  
+- **Source Tree（一番メジャーかな？？）**  
 [参照url](https://eng-entrance.com/sourcetree-use)  
 思ったより簡単なソフト。機能もよくみると、そんなに多くなさそう。シンプル。単純に使うなら、左上の大きいボタンだけでOK。  
 [インストール方法 参照url](https://eng-entrance.com/sourcetree)  
@@ -66,7 +66,7 @@ xampp の方が、windowsの起動と同時に起動するようにしちゃえ�
 [参照url](https://backlog.com/ja/git-tutorial/intro/intro2_1.html)  
 なんとなくNIC案件でbad feelだったので、やめとく。
 
-クライアントツールは、いろいろあるけどsource tree が参考サイトが多いので、とりあえずはこのソフトで慣れよう。  
+クライアントツールは、いろいろあるけど**source tree が参考サイトが多いので、とりあえずはこのソフトで慣れよう**。  
 実際にはコマンドの操作をGUI化しているだけで、慣れてくると「コマンドの方が早いわ」ってなる可能性はある。
 
 ## 3. リモートリポジトリを作成
