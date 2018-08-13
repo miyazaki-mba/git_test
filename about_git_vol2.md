@@ -1,12 +1,12 @@
 # Git 続き
 
-1. ブランチ  
+1. ブランチ＆マージ  
 [参照url](https://naichilab.blogspot.com/2014/01/git-3sourcetreegit.html)
 
 2. フェッチ
 [参照url]()
 
-
+3. スタッシュ
 
 # Github の説明
 
