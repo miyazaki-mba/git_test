@@ -137,6 +137,7 @@ workdataのサーバーにインストールしてもらうことになった。
 - [参照url](https://www.symmetric.co.jp/blog/archives/577)  
 - [参照url](https://eng-entrance.com/category/programming/git)  
 
+- [用語とかざっくり 参照url](https://qiita.com/kyoyyy/items/161b6905f45bee2efe21)
 
 <br>
 
