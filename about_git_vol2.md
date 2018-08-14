@@ -10,7 +10,9 @@
 [参照url](https://tyoshikawa1106.hatenablog.com/entry/2016/05/16/234641)
 
 3. スタッシュ
-退避機能だよ
+これは便利！作業途中のファイルをコミットせずに退避しておく機能。
+作業に入っているのに、緊急で修正が入った場合など使える。
+[参照url](https://tyoshikawa1106.hatenablog.com/entry/2016/05/16/230237)
 
 - コミットを取り消す
 [参照url](http://cly7796.net/wp/other/cancel-the-commit-sourcetree/)
@@ -19,8 +21,8 @@
 <br>
 <br>
 
-# Github の説明
-### Github 画面の説明
+# Git hub の説明
+### Git hub 画面の説明
 1. 画面上部  
 [参照url](http://www.atmarkit.co.jp/ait/articles/1701/05/news009.html)
 
