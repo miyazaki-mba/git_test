@@ -6,7 +6,7 @@
 <br>
 
 ### 2018/08/14 追記
-- フェッチの説明を追記  
+- フェッチ・スタッシュ・破棄・の説明を追記  
 [参照url](https://github.com/miyazaki-mba/git_test/blob/master/about_git_vol2.md)
 - git 用語
 覚えづらい用語のまとめ  
