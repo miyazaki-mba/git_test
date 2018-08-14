@@ -37,6 +37,6 @@ originという名前のレポジトリのマスターブランチから、git p
 [参照url](https://nekosoftware.wordpress.com/2015/02/03/git%E3%81%AE%E3%81%B5%E3%82%8F%E3%81%A3%E3%81%A8%E3%81%97%E3%81%9F%E7%9F%A5%E8%AD%98%E3%82%92%E8%AA%BF%E6%9F%BB%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/)
 
 - origin/HEAD
-リモートリポジトリoriginの、HEADの位置を表します。
+リモートリポジトリoriginの、デフォルトブランチを表しています。
+git clone する際は、デフォルトブランチからダウンロードされる。
 
-2つのリモートリポジトリがある場合に重要になる
