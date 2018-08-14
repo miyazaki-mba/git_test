@@ -7,7 +7,7 @@
 [参照url]()
 
 3. スタッシュ
-
+退避機能だよ
 
 - コミットを取り消す
 [参照url](http://cly7796.net/wp/other/cancel-the-commit-sourcetree/)
