@@ -4,7 +4,10 @@
 [参照url](https://naichilab.blogspot.com/2014/01/git-3sourcetreegit.html)
 
 2. フェッチ
-[参照url]()
+マージする前に確認するための操作。
+プル（pull）はダウンロードする際にマージするけど、フェッチはマージしない。
+ローカルのソースツリーにリモートのブランチを追加する。
+[参照url](https://tyoshikawa1106.hatenablog.com/entry/2016/05/16/234641)
 
 3. スタッシュ
 退避機能だよ

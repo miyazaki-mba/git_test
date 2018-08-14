@@ -10,8 +10,7 @@
 リモートリポジトリの場所(URL)の別名
 
 - master  
-ブランチの名前
-
+ブランチの名前  
 つまり、"git pull origin master" は、  
 originという名前のレポジトリのマスターブランチから、git pull しろと命令している。
 
