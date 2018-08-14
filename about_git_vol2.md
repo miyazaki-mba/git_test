@@ -8,8 +8,15 @@
 
 3. スタッシュ
 
-# Github の説明
 
+- コミットを取り消す
+[参照url](http://cly7796.net/wp/other/cancel-the-commit-sourcetree/)
+
+
+<br>
+<br>
+
+# Github の説明
 ### Github 画面の説明
 1. 画面上部  
 [参照url](http://www.atmarkit.co.jp/ait/articles/1701/05/news009.html)
