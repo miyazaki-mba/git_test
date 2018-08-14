@@ -14,6 +14,10 @@
 作業に入っているのに、緊急で修正が入った場合など使える。
 [参照url](https://tyoshikawa1106.hatenablog.com/entry/2016/05/16/230237)
 
+4. 破棄
+これも便利！！作業したファイルの修正作業を自由自在に、元に戻せる！！すごい
+[参照url](http://cly7796.net/wp/other/to-reset-the-amendment-from-the-previous-commit-sourcetree/)
+
 - コミットを取り消す
 [参照url](http://cly7796.net/wp/other/cancel-the-commit-sourcetree/)
 
@@ -27,7 +31,9 @@
 [参照url](http://www.atmarkit.co.jp/ait/articles/1701/05/news009.html)
 
 - 「Watch」はTwitterの「フォロー」  
-フォローしたいリポジトリを「watch」をセレクトして「watching」にすると、ヘッダーの「ベルのマーク」の通知機能で、更新情報の通知を受け取れる。
+フォローしたいリポジトリを「watch」をセレクトして「watching」にすると、ヘッダーの「ベルのマーク」の通知機能で、更新情報の通知を受け取れる。  
+是非、Git hubに会員登録して、このgit hubのリポジトリに対して「watching」にしてみてください。  
+<br>
 - 「Star」はFacebookの「いいね！」  
 [参照url](https://efcl.info/2014/07/30/find-github-release/)
 
