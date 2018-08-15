@@ -5,9 +5,7 @@
 
 - 「Watch」はTwitterの「フォロー」  
 フォローしたいリポジトリを「watch」をセレクトして「watching」にすると、ヘッダーの「ベルのマーク」の通知機能で、更新情報の通知を受け取れる。  
-<br>
 是非、Git hubに会員登録して、このgit hubのリポジトリに対して「watching」にしてみてください。  
-<br>
 - 「Star」はFacebookの「いいね！」  
 [参照url](https://efcl.info/2014/07/30/find-github-release/)
 
@@ -17,6 +15,7 @@
 - explore は、イケイケなリポジトリを紹介している場所  
 [参照url](https://qiita.com/luckypool/items/21eb5f515358ee33529c)
 
+---
 
 1. issue （イシュー）は、問題点  
 [参照url](https://seleck.cc/647)
@@ -36,6 +35,22 @@
 
 <br>
 <br>
+
+# git hub を導入した開発環境
+以前、gitを導入した開発環境イメージを記載しました。  
+ですが、以前の開発環境イメージだと、gitの履歴を見る場合に、作業しない人（ディレクター）もpullして自分のpcで確認する必要があります。  
+※サイトを閲覧するだけなら、workdataのドメインで見れますが、gitの履歴を見るには、gitでpullしないと見れない。  
+<br>
+何か足りないなぁと思ってました。  
+で、googleすると、**git hubを業務で使用**してました。  
+（似たようなツールがgit hub以外にも、存在する。git lab、bitbucket、backlogなど）  
+gitホスティングサービスと言っているみたいです。  
+[参照url]  (https://qiita.com/k-yamada-github/items/07253054dc852a77d693)
+<br>
+<br>
+なので正しい開発環境は下記です。  
+## 開発環境（git hub使用）  
+<img src="img/img_environment_02.jpg" width="800">
 
 ## git hub 導入している会社が増えている
 - git hubが便利なので、業務で使う会社が増えている  
