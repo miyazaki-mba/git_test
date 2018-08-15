@@ -1,4 +1,4 @@
-# Git hub の説明（gitではなく、git habの方）
+# Git hub の説明（gitではなく、git hubの方）
 ### Git hub 画面の説明
 1. 画面上部  
 [参照url](http://www.atmarkit.co.jp/ait/articles/1701/05/news009.html)
@@ -75,4 +75,4 @@ git labのサーバー
 10アカウントの場合、standardプランで、222円。（10ユーザー 1年 26,640円） 
 
 - 比較しているサイト  
-[参照url](https://qiita.com/hiroponz/items/c1ed4d6c10484233bf88)
+[参照url](https://qiita.com/k-yamada-github/items/07253054dc852a77d693)
