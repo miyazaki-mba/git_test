@@ -21,8 +21,8 @@
 [参照url](https://seleck.cc/647)
 
 2. Fork と pull Request （フォークとプルリクエスト）  
-fork 他の人のリポジトリを自分のリポジトリにコピー。  
-pull Request それを作者にpullしてもらうように通知する。  
+「fork」 他の人のリポジトリを自分のリポジトリにコピー。  
+「pull Request」 それを作者にpullしてもらうように通知する。  
 [参照url](http://kik.xii.jp/archives/179)  
 [参照url](https://qiita.com/YumaInaura/items/acff806290c8953d3185)
 
