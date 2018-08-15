@@ -1,12 +1,12 @@
 # gitの導入について
 
-1. [gitでの開発環境 about_git.mdファイル](https://github.com/miyazaki-mba/git_test/blob/master/about_git.md) 
+1. [gitでの開発環境 （about_git.mdファイル）](https://github.com/miyazaki-mba/git_test/blob/master/about_git.md) 
 
-1. [gitでの開発環境（続き） about_git_vol2.mdファイル](https://github.com/miyazaki-mba/git_test/blob/master/about_git_vol2.md) 
+1. [gitでの開発環境（続き） （about_git_vol2.mdファイル）](https://github.com/miyazaki-mba/git_test/blob/master/about_git_vol2.md) 
 
-1. [Git hub の説明 about_github.mdファイル](https://github.com/miyazaki-mba/git_test/blob/master/about_github.md) 
+1. [Git hub の説明 （about_github.mdファイル）](https://github.com/miyazaki-mba/git_test/blob/master/about_github.md) 
 
-- [git 用語 git_glossary.mdファイル](https://github.com/miyazaki-mba/git_test/blob/master/git_glossary.md) 
+- [git 用語 （git_glossary.mdファイル）](https://github.com/miyazaki-mba/git_test/blob/master/git_glossary.md) 
 
 <br>
 <br>
