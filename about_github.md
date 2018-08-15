@@ -28,7 +28,7 @@
 
 3. projeccts リポジトリを管理。issueやノートを使用する。   
 inVision にもあった、**プロジェクト機能**。  
-例えば、1つの修正が、今どの状態なのか（制作中・テスト中・アップ済み）などカラムを移動させていく感じ。 
+例えば、1つの修正が、今どの状態なのか（制作中・テスト中・アップ済み）などカラムを移動させていく感じ。  
 [参照url](https://qiita.com/nafu/items/8996738177c601dd81f9)
 - zenhub  
 [参照url](https://qiita.com/GeckoTang/items/f75b9a1c20c8e5091147)
