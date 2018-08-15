@@ -20,32 +20,36 @@
 1. issue （イシュー）は、問題点  
 [参照url](https://seleck.cc/647)
 
-2. Fork と pull Request （フォークとプルリクエスト）、他の人のリポジトリを自分のリポジトリにコピー。それを作者にpullしてもらうように通知する。  
+2. Fork と pull Request （フォークとプルリクエスト）
+fork 他の人のリポジトリを自分のリポジトリにコピー。  
+pull Request それを作者にpullしてもらうように通知する。  
 [参照url](http://kik.xii.jp/archives/179)  
 [参照url](https://qiita.com/YumaInaura/items/acff806290c8953d3185)
 
-3. projeccts リポジトリを管理。issueやノートを使用する。  
+3. projeccts リポジトリを管理。issueやノートを使用する。 
+inVision にもあった、プロジェクト機能。  
+例えば、1つの修正が、今どの状態なのか（制作中・テスト中・アップ済み）などカラムを移動させていく感じ。 
 [参照url](https://qiita.com/nafu/items/8996738177c601dd81f9)
 - zenhub  
 [参照url](https://qiita.com/GeckoTang/items/f75b9a1c20c8e5091147)
 
-4. wiki は、取扱い説明などを記載する？
+4. wiki は、取扱い説明などを記載するっぽい？
 
-5. insights はclone数や、issueの進行状況など
+5. insights はclone数や、issueの進行状況などの統計データ
 
 <br>
 <br>
 
 # git hub を導入した開発環境
-以前、gitを導入した開発環境イメージを記載しました。  
+以前、[gitを導入した開発環境イメージ](https://github.com/miyazaki-mba/git_test/blob/master/about_git.md#anc_git_img)を記載しました。  
 ですが、以前の開発環境イメージだと、gitの履歴を見る場合に、作業しない人（ディレクター）もpullして自分のpcで確認する必要があります。  
 ※サイトを閲覧するだけなら、workdataのドメインで見れますが、gitの履歴を見るには、gitでpullしないと見れない。  
 <br>
 何か足りないなぁと思ってました。  
-で、googleすると、**git hubを業務で使用**してました。  
-（似たようなツールがgit hub以外にも、存在する。git lab、bitbucket、backlogなど）  
+で、よくよく調べると、**git hubを業務で使用**してました。  
+（git hub以外にも、似たようなツールが存在する。git lab、bitbucket、backlogなど）  
 <br>
-gitホスティングサービスと言っているみたいです。  
+**gitホスティングサービス**と言っているみたいです。  
 [参照url]  (https://qiita.com/k-yamada-github/items/07253054dc852a77d693)
 <br>
 <br>

@@ -24,7 +24,7 @@
 
 # 開発環境の変更
 
-## （仮）変更イメージ
+<a name="anc_git_img">## （仮）変更イメージ</a>
 <img src="img/img_environment.jpg" width="800">
 
 ## 現在の開発環境
