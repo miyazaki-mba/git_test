@@ -95,7 +95,20 @@ slack連携可。
 
 <br>
 
-**価格的には、git labか？ bitbucketか？**  
+**価格的には、git labか？ bitbucketか？** 
+
+
+- git lab
+[参照url](https://about.gitlab.com/)
+- git lab 非公式日本語サイト
+[参照url](https://www.gitlab.jp/)
+- git lab 注意点
+[参照url](https://techracho.bpsinc.jp/morimorihoge/2018_06_04/57628)
+- git lab CE（社内サーバー）インストール方法
+[参照url](https://www.creationline.com/lab/18684)
+- git lab 社員年収・全員リモート勤務だってさぁ
+[参照url](https://hiroponz.hateblo.jp/entry/2018/01/11/001739)
+
 
 <br>
 
