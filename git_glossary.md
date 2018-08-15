@@ -39,3 +39,18 @@ originという名前のレポジトリのマスターブランチから、git p
 リモートリポジトリoriginの、デフォルトブランチを表しています。
 git clone する際は、デフォルトブランチからダウンロードされる。
 
+<br>
+<br>
+
+---
+## git とは直接関係ないけど
+gitを調査する中で、関係してきた言葉（最近よく見る言葉）
+- ビルドとデプロイ  
+[参照url](https://qiita.com/isoyam/items/3d1fc5cf7403cdf4818d)
+
+- アジャイル開発  
+[参照url](https://hnavi.co.jp/knowledge/blog/agile_software_development/)
+
+- DevOps （デブオプス）  
+[参照url](https://qiita.com/bremen/items/44c3de10413f45f9f41e)
+
