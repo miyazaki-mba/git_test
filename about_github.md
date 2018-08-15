@@ -20,14 +20,14 @@
 1. issue （イシュー）は、問題点  
 [参照url](https://seleck.cc/647)
 
-2. Fork と pull Request （フォークとプルリクエスト）
+2. Fork と pull Request （フォークとプルリクエスト）  
 fork 他の人のリポジトリを自分のリポジトリにコピー。  
 pull Request それを作者にpullしてもらうように通知する。  
 [参照url](http://kik.xii.jp/archives/179)  
 [参照url](https://qiita.com/YumaInaura/items/acff806290c8953d3185)
 
-3. projeccts リポジトリを管理。issueやノートを使用する。 
-inVision にもあった、プロジェクト機能。  
+3. projeccts リポジトリを管理。issueやノートを使用する。   
+inVision にもあった、**プロジェクト機能**。  
 例えば、1つの修正が、今どの状態なのか（制作中・テスト中・アップ済み）などカラムを移動させていく感じ。 
 [参照url](https://qiita.com/nafu/items/8996738177c601dd81f9)
 - zenhub  
