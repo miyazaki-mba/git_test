@@ -53,8 +53,9 @@ inVision にもあった、**プロジェクト機能**。
 [参照url](https://qiita.com/k-yamada-github/items/07253054dc852a77d693)  
 <br>
 <br>
-なので正しい開発環境は下記です。  
+なので正しい開発環境は下記の右側です。  
 ## 開発環境（git hub使用）  
+左は中途半端だった。右が正解。  
 <img src="img/img_environment_02.jpg" width="800">
 
 ## git hub 導入している会社が増えている
