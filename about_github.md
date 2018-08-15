@@ -50,7 +50,7 @@ inVision にもあった、プロジェクト機能。
 （git hub以外にも、似たようなツールが存在する。git lab、bitbucket、backlogなど）  
 <br>
 **gitホスティングサービス**と言っているみたいです。  
-[参照url]  (https://qiita.com/k-yamada-github/items/07253054dc852a77d693)
+[参照url](https://qiita.com/k-yamada-github/items/07253054dc852a77d693)  
 <br>
 <br>
 なので正しい開発環境は下記です。  
