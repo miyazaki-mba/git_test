@@ -75,6 +75,7 @@ inVision にもあった、プロジェクト機能。
 [参照url](https://bitbucket.org/product/pricing?tab=cloud)  
 社内サーバーにインストール可能。（でも日々メンテナンスしないといけない。更新頻度が高いとのこと）  
 社内サーバーではなく、git labのサーバーを使うプランもある。  
+slack連携可。  
 無料。
 
 - bitbucket  
@@ -92,7 +93,7 @@ inVision にもあった、プロジェクト機能。
 
 <br>
 
-**価格的には、bitbucketか？ git labか？**  
+**価格的には、bitbucketか？ git lab（ホスティング）か？**  
 
 <br>
 
@@ -103,5 +104,4 @@ inVision にもあった、プロジェクト機能。
 （というか、よくよく考えると、テストサーバーにアップしてる時点で、レンタルサーバーにアップしてるので。。。）  
 （ミツエーもbacklogのホスティングサーバーに置いていると思われる。）  
 <br>
-もうworkdataは不要になる？？  
-phpは動く？DBは？
+もう社内workdataは不要になる？？  

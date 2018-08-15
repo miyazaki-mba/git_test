@@ -123,9 +123,12 @@ https://test-kaku.backlog.com/git/TEST
 <br>
 
 ### gitをworkdataで使えるように準備中
-1. workdataに、git をインストールしてもらえるように、Mr.Nakamuraに依頼。  
-一旦、Mr.Nakamuraにgitについて理解してもらってから、  
-workdataのサーバーにインストールしてもらうことになった。
+~~1. workdataに、git をインストールしてもらえるように、Mr.Nakamuraに依頼。~~  
+~~一旦、Mr.Nakamuraにgitについて理解してもらってから、~~  
+~~workdataのサーバーにインストールしてもらうことになった。~~
+
+そもそも、workdataではなく、githubなどのホスティングサーバーに置くようになるかもしれないので、workdataの件は一旦保留。  
+詳しくは、後ほど、[3. Git hub の説明](https://github.com/miyazaki-mba/git_test/blob/master/about_github.md)を見てね。
 
 <br>
 
