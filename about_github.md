@@ -44,6 +44,7 @@
 何か足りないなぁと思ってました。  
 で、googleすると、**git hubを業務で使用**してました。  
 （似たようなツールがgit hub以外にも、存在する。git lab、bitbucket、backlogなど）  
+<br>
 gitホスティングサービスと言っているみたいです。  
 [参照url]  (https://qiita.com/k-yamada-github/items/07253054dc852a77d693)
 <br>
