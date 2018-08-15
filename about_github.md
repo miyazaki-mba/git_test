@@ -64,7 +64,8 @@ inVision にもあった、プロジェクト機能。
 - 企業で利用する場合は、1ユーザー約1,000円/月～(10ユーザー 1年 120,000円)
 
 - 「Team」プランから契約可能  
-- もし、ソースファイルを社内に置きたいなら「Enterprise」プラン 1ユーザー約2,327円/月～  （10ユーザー 1年279,240円）
+- もし、ソースファイルを社内に置きたいなら「Enterprise」プラン  
+1ユーザー約2,327円/月～  （10ユーザー 1年279,240円）  
 [参照url](https://github.co.jp/pricing.html)  
 [参照url](http://careerhack.en-japan.com/report/detail/863)
 
@@ -73,17 +74,17 @@ inVision にもあった、プロジェクト機能。
 - git lab  
 [参照url](https://bitbucket.org/product/pricing?tab=cloud)  
 社内サーバーにインストール可能。（でも日々メンテナンスしないといけない。更新頻度が高いとのこと）  
-社内サーバーではなく、git labのサーバーを使うプランもある。
+社内サーバーではなく、git labのサーバーを使うプランもある。  
 無料。
 
 - bitbucket  
 [参照url](https://bitbucket.org/product/pricing?tab=cloud)  
-10アカウントの場合、standardプランで、222円。（10ユーザー 1年 26,640円） 
+5アカウント以上契約する場合、standardプランで、222円。（10ユーザー 1年 26,640円） 
 
-- backlog（ミツエー使用）
-[参照url](https://backlog.com/ja/)
-ユーザー無制限 16,800円/月（1年 168,000円）
-それ以下のプランは、要領・プロジェクト数に制限あり。
+- backlog（ミツエ使用）  
+[参照url](https://backlog.com/ja/)  
+ユーザー無制限 16,800円/月（1年 168,000円）  
+それ以下のプランは、要領・プロジェクト数に制限あり。  
 
 - 比較しているサイト  
 [参照url](https://qiita.com/k-yamada-github/items/07253054dc852a77d693)  
