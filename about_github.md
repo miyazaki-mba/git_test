@@ -98,19 +98,6 @@ slack連携可。
 **価格的には、git labか？ bitbucketか？** 
 
 ### git lab
-- git lab
-[参照url](https://about.gitlab.com/)
-- git lab 非公式日本語サイト
-[参照url](https://www.gitlab.jp/)
-- git lab 注意点とノウハウ（2018/06版）  
-Community Edition（CE）（gitlab-ce）は無料・無制限  
-[参照url](https://techracho.bpsinc.jp/morimorihoge/2018_06_04/57628)   
-- git lab CE（社内サーバー）インストール方法  
-[参照url](https://www.creationline.com/lab/18684)  
-[参照url](https://www.gitlab.jp/installation/)  
-
-<br>
-
 - 社内サーバーにインストールする場合、Community Edition（CE）（gitlab-ce）プラン。  
 - パッケージをインストールするだけ。
 - 頻繁に更新されるので、なるべく変なカスタマイズはしない方がいい。
@@ -144,7 +131,7 @@ Community Edition（CE）（gitlab-ce）は無料・無制限
 <br>
 **gitホスティングサーバーが信用できない**という意見がありますので、一旦は社内サーバーにgit labをインストールする方法を選択したいと思います。  
 外注との間では使用しない。社内のみ。  
-（セキュリティを考慮して社内サーバーを使用するのであれば、外注とgitを使用する場合、別途　契約したgitホスティングサービスを利用すべき。社内ネットワークに外部からの穴はあけないほうがいいと思う。）
+（セキュリティを考慮して社内サーバーを使用するのであれば、外注とgitを使用する場合、別途 契約したgitホスティングサービスを利用すべき。社内ネットワークに外部からの穴はあけないほうがいいと思う。）
 
 <br>
 
