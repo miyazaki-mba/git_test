@@ -101,10 +101,13 @@ git hubへ接続するには、公開鍵が必要になる。
 2. 秘密鍵、公開鍵を作成
 [参照url](https://qiita.com/reflet/items/5c6ba6e29fe8436c3185)
 3. 公開鍵をgithubに設定
-[参照url](https://qiita.com/ajitama/items/364d89b21daf8d3481bc)
+[参照url](https://qiita.com/0ta2/items/25c27d447378b13a1ac3)
 4. 秘密鍵をsourcetreeに設定
 [参照url](https://qiita.com/reflet/items/4f7b5c4a312bc27df10e)
-5. アクセス可能
+5. 上記の方法でOKですが、gitlab等、他のリポジトリでも鍵を使用するため、下記にも設定してください。  
+（また、現在 gitlabは、sourcetreeのアカウント作成ができないので、こちらの方法を行ってください。）
+[参照url](https://qiita.com/kyamawaki/items/05abbbec5f617f3ae5eb)
+6. アクセス可能
 
 ~~※毎日パソコンを起動するたびに1回、秘密鍵のパスワードを入力しないといけないけど、まぁたいした作業じゃないし、セキュリティ的にはいいかも。~~
 - そのままだと、毎日パソコンを起動して、sourcetreeでSSH接続するたびに、「SSHエージェント」が起動してしまいます。  
