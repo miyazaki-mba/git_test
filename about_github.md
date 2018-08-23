@@ -106,7 +106,8 @@ slack連携可。
 Community Edition（CE）（gitlab-ce）は無料・無制限  
 [参照url](https://techracho.bpsinc.jp/morimorihoge/2018_06_04/57628)   
 - git lab CE（社内サーバー）インストール方法  
-[参照url](https://www.creationline.com/lab/18684)
+[参照url](https://www.creationline.com/lab/18684)  
+[参照url](https://www.gitlab.jp/installation/)  
 
 <br>
 
