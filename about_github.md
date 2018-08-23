@@ -97,17 +97,46 @@ slack連携可。
 
 **価格的には、git labか？ bitbucketか？** 
 
-
+### git lab
 - git lab
 [参照url](https://about.gitlab.com/)
 - git lab 非公式日本語サイト
 [参照url](https://www.gitlab.jp/)
-- git lab 注意点
-[参照url](https://techracho.bpsinc.jp/morimorihoge/2018_06_04/57628)
-- git lab CE（社内サーバー）インストール方法
+- git lab 注意点とノウハウ（2018/06版）  
+Community Edition（CE）（gitlab-ce）は無料・無制限  
+[参照url](https://techracho.bpsinc.jp/morimorihoge/2018_06_04/57628)   
+- git lab CE（社内サーバー）インストール方法  
 [参照url](https://www.creationline.com/lab/18684)
-- git lab 社員年収・全員リモート勤務だってさぁ
-[参照url](https://hiroponz.hateblo.jp/entry/2018/01/11/001739)
+
+<br>
+
+- 社内サーバーにインストールする場合、Community Edition（CE）（gitlab-ce）プラン。  
+- パッケージをインストールするだけ。
+- 頻繁に更新されるので、なるべく変なカスタマイズはしない方がいい。
+- ただ、特定の人に管理者になってもらう運用だと、その人がいなくなった場合にストップするというリスクもある。
+- ある程度、日本語対応している
+
+<br>
+
+git labは、各機能を、git hubとは違う名前を使用している
+- リポジトリ は、プロジェクト と呼ぶ。  
+[参照url](https://qiita.com/CUTBOSS/items/ce61bb6a8635c6918558)
+- SSH認証キーの作成  
+以前、git hubにログインする際に作成したキーを使用
+[以前紹介した参照url]()  
+改めて、秘密鍵の仕組みについて  
+[参照url](https://persol-tech-s.co.jp/corporate/security/article.html?id=26)  
+ちなみに、秘密鍵にはいくつかフォーマットがあるそうです。  
+id_rst、 id_rst.pem、 id_rst.ppk など。  
+[参照url](http://www.puniokid.com/tips/linux/69/)  
+
+<br>
+
+### bit bucket  
+- sourcetree を提供している会社
+- 主要な部分は日本語対応している
+- 宮崎作成リポジトリ
+[参照url](https://bitbucket.org/miyazaki-mba/git-test-bitbucket/src/master/)  
 
 <br>
 
