@@ -54,7 +54,8 @@ xampp の方が、windowsの起動と同時に起動するようにしちゃえ�
 （触らないと、絶対わからない）  
 <br>
 ## 1. git インストール
-- [参照url](https://qiita.com/toshi-click/items/dcf3dd48fdc74c91b409)
+- [参照url](https://qiita.com/toshi-click/items/dcf3dd48fdc74c91b409)  
+インストール途中でエディターを選択する場面がありますが、そのままデフォルトで。  
 
 ## 2. gitクライアント インストール
 - **Source Tree（一番メジャーかな？？）**  
