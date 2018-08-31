@@ -100,7 +100,7 @@ git hubへ接続するには、公開鍵が必要になる。
 
 1. git hub に自分のアカウントを作成
 2. 秘密鍵、公開鍵を作成
-[参照url](https://qiita.com/reflet/items/5c6ba6e29fe8436c3185)
+[参照url](https://qiita.com/reflet/items/5c6ba6e29fe8436c3185#gitbash%E3%81%AE%E8%B5%B7%E5%8B%95)
 3. 公開鍵をgithubに設定
 [参照url](https://qiita.com/0ta2/items/25c27d447378b13a1ac3)
 4. 秘密鍵をsourcetreeに設定
