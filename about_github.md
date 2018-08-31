@@ -40,6 +40,12 @@ inVision にもあった、**プロジェクト機能**。
 <br>
 <br>
 
+### git hub のリポジトリを、会社のメンバーで共有する場合
+[参照url](https://qiita.com/amidara/items/c7cd2c2c59c3ffcf225c)
+
+<br>
+<br>
+
 # git hub を導入した開発環境
 以前、[gitを導入した開発環境イメージ](https://github.com/miyazaki-mba/git_test/blob/master/about_git.md#anc_git_img)を記載しました。  
 ですが、以前の開発環境イメージだと、gitの履歴を見る場合に、作業しない人（ディレクター・プロデューサー）もpullして自分のpcで確認する必要があります。  
